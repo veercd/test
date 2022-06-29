@@ -1,31 +1,25 @@
 # Interest List <!-- omit in toc -->
 
-This is a living document and we are relying on our community to contribute to it and help maintain it. 
+为开发人员在AELF上构建应用程序提供支持，助力AELF生态的增长与发展
 
 ---
 
-- [:clipboard: About](#clipboard-about)
 - [:battery: Funding](#battery-funding)
-- [:bookmark_tabs: Layers of Polkadot Stack](#bookmark_tabs-layers-of-polkadot-stack)
-  - [:link: Infrastructure](#link-Infrastructure)
-  - [:satellite: DApp](#satellite-DApp)
-- [:construction_worker: Contributing](#construction_worker-contributing)
+- [:bookmark_tabs: InterestList](#bookmark_tabs-interestlist)
+  - [:link: Infrastructure](#link-infrastructure)
+  - [:satellite: DApp](#satellite-dapp)
 
 ## :battery: Funding
 
-The Web3 Foundation's [Grants Program](https://github.com/w3f/Grants-Program) is focused on funding development work to build out all layers of the Polkadot Tech Stack. 
+专注于资助开发工作，以持续壮大AELF生态系统。
 
-To get a better understanding of the projects we consider most relevant, you can explore a detailed breakdown of the various layers of the stack below. We divide each of the layers into the various *components* which we feel are most important. We then highlight some of the *existing projects* that address these components as well as some *potentially interesting projects* that we would like to fund.
+通过详细描述我们的优先领域，我们不希望排除针对我们可能没有想到的不同领域的拨款申请。我们愿意资助所有为生态系统带来价值的项目。如果您正在考虑申请一个项目，但不确定它是否属于我们感兴趣的领域，请与我们联系讨论。
 
-We typically like to fund more than one project for each component. So, if you see a component with 1 or 0 existing projects, it's likely that we would consider an application in this area. In order to consider funding a proposal that addresses a component with many existing projects, we would need to be persuaded that yours brings unique value to the ecosystem. Such value could come in many forms including but not limited to differentiated functionality, better user experience, the attraction of new users to the ecosystem or a high likelihood that the technology would be maintained for a long period of time.
+想了解更多奖金问题，详情请看[奖金等级](https://github.com/veercd/test) 
 
-By describing our areas of priority in detail, we do not wish to preclude grant applications that address different areas that we may not have thought of. We would like to fund all projects that bring value to the ecosystem. If you are considering applying for a project and are not sure if it falls within our areas of interest, please get in touch with us to discuss it.
+## :bookmark_tabs: InterestList
 
-For open source infrastructure projects that are no longer maintained, we are also interested in signing [maintenance grants](https://github.com/w3f/Grants-Program#hammer_and_wrench-maintenance-grants). 
-
-## :bookmark_tabs: Layers of Polkadot Stack
-
-In the below sections you can find a list of different layers of the Polkadot Stack.
+Below are the directions we are interested in, if you have other better ideas that are not listed, please feel free to contact us.
 
 ### :link: Infrastructure
 
@@ -47,11 +41,3 @@ In the below sections you can find a list of different layers of the Polkadot St
 | SocialFi
 | GameFi
 | NFT
-
-## :construction_worker: Contributing
-
-Pull requests, issues, or other contributions from the community are encouraged!  You can not only add specific projects, but also potentially interesting fields/areas which are currently missing in the tech stack.
-
-:heavy_exclamation_mark: All technologies listed above need to be open-source. Ideally, the links lead directly to the code.
-
-_Note: You will need a GitHub account to suggest changes or open issues. If you do not have one, you may [sign up for free](https://github.com/join)._
