@@ -18,43 +18,43 @@ The W3F Grants Program offers different grant levels to help you best depending 
 
 ### :chicken: Level SSS<!-- omit in toc -->
 
-- **Target:** -
 - **Amount:** Up to $500,000
+- **Quantity:** 1
 - **Requirements:** Pitch call + 5 approvals (for >$100k: Web3 Foundation Council approval)
 - **Benefits:** All of the above + VC introductions
 
 ### :rooster: Level S<!-- omit in toc -->
 
-- **Target:** -
 - **Amount:** $50,000
+- **Quantity:** 3-5
 - **Requirements:** Pitch call + 5 approvals (for >$100k: Web3 Foundation Council approval)
 - **Benefits:** All of the above + VC introductions
 
 ### :baby_chick: Level A+<!-- omit in toc -->
 
-- **Target:** -
 - **Amount:** $30,000
+- **Quantity:** 5-10
 - **Requirements:** 3 approvals
 - **Benefits:** All of the above + [co-promotion](./docs/announcement-guidelines.md#announcement-guidelines), [Grants Program badge](./docs/grant-badge-guidelines.md), fast track to [Substrate Builders Program](https://www.substrate.io/builders-program/)
 
 ### :hatched_chick: Level A <!-- omit in toc -->
 
-- **Target:** -
 - **Amount:** $20,000
+- **Quantity:** 5-10
 - **Requirements:** 2 approvals
 - **Benefits:** Feedback during application process and evaluation, introduction to related teams/projects
 
 ### :hatching_chick: Level B <!-- omit in toc -->
 
-- **Target:** -
 - **Amount:** $8,000-10,000
+- **Quantity:** 30-50
 - **Requirements:** 2 approvals
 - **Benefits:** Feedback during application process and evaluation, introduction to related teams/projects
 
 ### :egg: Level Extra <!-- omit in toc -->
 
-- **Target:** -
 - **Amount:** 
+- **Quantity:** Unlimited
 - **Requirements:** 2 approvals
 - **Benefits:** Feedback during application process and evaluation, introduction to related teams/projects
 
