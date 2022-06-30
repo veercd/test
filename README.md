@@ -65,7 +65,7 @@ The W3F Grants Program offers different grant levels to help you best depending 
 ### 1. Application
 
    1. [Fork](https://github.com/w3f/Grants-Program/fork) this repository.
-   2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](granttemplate/dapp.md)). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/w3f/Grants-Program/master/applications/application-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**. In the case of a maintenance application, use the maintenance template ([`maintenance template`](maintenance/maintenance-template.md)) instead.
+   2. In the newly created fork,if you participate in infrastructure, create a copy of the infrastructure template ([`infrastructure/infrastructure-template.md`](infrastructure/infrastructure-template.md)),if you participate in DApp, create a copy of the DApp template ([`dapp/dapp-template.md`](dapp/dapp-template.md)). 
    3. Name the new file after your project: `project_name.md`.
    4. Fill out the template with the details of your project. The more information you provide, the faster the review. Please refer to our [Interested Grant List](docs/interestlist.md) and make sure your deliverables present a similar same level of detail. To get an idea of what a strong application looks like . Naturally, if you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
    5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
