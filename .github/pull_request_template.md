@@ -6,8 +6,8 @@
 
 ### For which grant type are you applying?
 
-- [ ] **Infrastructure**:  Up to $10,000, 2 approvals
-- [ ] **DApp**:  Up to $30,000, 3 approvals
+- [ ] **Infrastructure**
+- [ ] **DApp**
 
 ### Application Checklist
 
