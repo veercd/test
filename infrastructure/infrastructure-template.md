@@ -16,6 +16,8 @@
 
 Please provide the following:
 
+- Is the project open source.
+- Projected start date on AELF.
 - If the name of your project is not descriptive, a tag line (one sentence summary).
 - A brief description of your project.
 - An indication of how your project relates to / integrates into AELF.
@@ -98,8 +100,6 @@ If you've already started implementing your project or it is part of a larger re
 Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
 
 Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to AELF.
-
-For each milestone,
 
 - make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
 - include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each. This ensures that the code can be widely used by the community.
