@@ -14,7 +14,7 @@ For more information about the AELF DAO Grant, please visit the [website](https:
 
 ## :level_slider: Levels
 
-The W3F Grants Program offers different grant levels to help you best depending on your current stage.
+The AELF DAO Grants Program offers different grant levels to help you best depending on your current stage.
 
 ### :chicken: Level SSS<!-- omit in toc -->
 
