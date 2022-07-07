@@ -143,4 +143,4 @@ We have Riot channels for real-time discussions on Web3 and Polkadot. Join the c
 
 ## :information_source: License <!-- omit in toc -->
 
-[Apache License 2.0](LICENSE) © Web3 Foundation
+[MIT License](LICENSE) © Web3 Foundation
