@@ -45,13 +45,13 @@ Here are the details of the levels
 
 - **Amount:** $8,000-10,000
 - **Quantity:** 30-50
-- **Requirements:** 
+- **Requirements:** 保证项目可正常运行并完整的部署在AELF链上
 
 ### :egg: Level Extra <!-- omit in toc -->
 
 - **Amount:** 
 - **Quantity:** Unlimited
-- **Requirements:** 保证项目可正常运行并完整的部署在AELF链上
+- **Requirements:** 
 
 ## :pencil: Process
 
