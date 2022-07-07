@@ -6,10 +6,6 @@ These are the guidelines to be followed for milestones submitted for evaluation.
 
 Please submit all your milestones via PR to the [Grant Milestone Delivery repository](https://github.com/veercd/test2).
 
-## Invoice ？？？
-
-Although a milestone needs to be reviewed and accepted, you can already submit your invoice through [this form](https://docs.google.com/forms/d/e/1FAIpQLSfmNYaoCgrxyhzgoKQ0ynQvnNRoTmgApz9NrMp-hd8mhIiO0A/viewform).
-
 ## Content
 
 The submission should contain the following information:
