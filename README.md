@@ -23,37 +23,18 @@ For more information about the AELF DAO Grant, please visit the [website](https:
 In cases where a niche expert opinion is desirable, one of the AELF DAO members may request such a review.
 
 - [Santiago Balaguer](https://github.com/SBalaguer)
-- [Aeron Buchanan](https://github.com/aeronbuchanan)
-- [Gautam Dhameja](https://github.com/gautamdhameja)
-- [Ashley Grevelink](https://github.com/cruikshankss)
-- [David Hawig](https://github.com/Noc2)
-- [Sebastian Müller](https://github.com/semuelle)
-- [Bill Laboon](https://github.com/laboon)
-- [Raul Romanutti](https://github.com/rrtti)
-- [Aleixo Sánchez](https://github.com/alxs)
-- [Seraya Takahashi](https://github.com/takahser)
-- [Reto Trinkler](https://github.com/retotrinkler)
-- [Benjamin Weiß](https://github.com/BenWhiteJam)
-- [Gavin Wood](https://github.com/gavofyork)
 
 #### AELF DAO Grants Evaluators<!-- omit in toc -->
 
 Evaluators are individuals able to evaluate the technology delivered as a result of the Grants Program. The AELF DAO has the right to add or remove evaluators on the basis of supermajority.
 
 - [Ashley Grevelink](https://github.com/cruikshankss)
-- [David Hawig](https://github.com/Noc2)
-- [Sebastian Müller](https://github.com/semuelle)
-- [Aleixo Sánchez](https://github.com/alxs)
-- [Seraya Takahashi](https://github.com/takahser)
 
 #### AELF DAO Operations Team<!-- omit in toc -->
 
 The Operations Team takes care of legal documents and remittances.
 
 - [Melanie Diener](https://github.com/meldien)
-- [Federica Dubbini](https://github.com/fededubbi)
-- [Kasper Mai Jørgensen](https://github.com/KasperJor)
-- [Rouven Pérez](https://github.com/RouvenP)
 
 ## :level_slider: Levels
 
