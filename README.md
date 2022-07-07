@@ -14,49 +14,44 @@ For more information about the AELF DAO Grant, please visit the [website](https:
 
 ## :level_slider: Levels
 
-The AELF DAO Grants Program offers different grant levels to help you best depending on your current stage.
+The AELF DAO grant program offers different grant levels, and we will determine the level based on the current status of the project, so please contact us if you have any objections.
+Here are the details of the levels
 
 ### :chicken: Level SSS<!-- omit in toc -->
 
 - **Amount:** Up to $500,000
 - **Quantity:** 1
 - **Requirements:** 
-- **Benefits:** 
 
 ### :rooster: Level S<!-- omit in toc -->
 
 - **Amount:** $50,000
 - **Quantity:** 3-5
 - **Requirements:** 
-- **Benefits:** 
 
 ### :baby_chick: Level A+<!-- omit in toc -->
 
 - **Amount:** $30,000
 - **Quantity:** 5-10
 - **Requirements:** 
-- **Benefits:** 
 
 ### :hatched_chick: Level A <!-- omit in toc -->
 
 - **Amount:** $20,000
 - **Quantity:** 5-10
 - **Requirements:** 
-- **Benefits:** 
 
 ### :hatching_chick: Level B <!-- omit in toc -->
 
 - **Amount:** $8,000-10,000
 - **Quantity:** 30-50
 - **Requirements:** 
-- **Benefits:** 
 
 ### :egg: Level Extra <!-- omit in toc -->
 
 - **Amount:** 
 - **Quantity:** Unlimited
 - **Requirements:** 
-- **Benefits:** 
 
 ## :pencil: Process
 
