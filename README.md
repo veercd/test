@@ -8,6 +8,9 @@
   - [2. Application Review](#2-application-review)
   - [3. Milestone Delivery and Payment](#3-milestone-delivery-and-payment)
   - [Changes to a Grant after Approval](#changes-to-a-grant-after-approval)
+- [:bulb: Help](#bulb-help)
+  - [Additional information](#additional-information)
+  - [Real-time conversation](#real-time-conversation)
 
 ## :wave: Introduction
 
@@ -122,3 +125,22 @@ Here are the details of the levels
 
 - Accepted grant applications can be amended at any time. However, this may need to be reassessed (according to the [levels](#level_slider-levels)). 
 - If your deliveries are significantly delayed and we cannot get a hold of you, We will not give grants .
+
+## :bulb: Help
+
+### Additional information
+
+| <img src="src/web.png?s=50" width="50"> | <img src="src/twitter.png?s=50" width="50"> | <img src="src/medium.png?s=50" width="50"> | <img src="src/like.png?s=50" width="50"> | <img src="src/reddit.png?s=50" width="50"> | <img src="src/youtube-play.png?s=50" width="50"> |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| [Grant Website](https://web3.foundation) | [W3F Twitter](https://twitter.com/web3foundation) | [W3F Medium](https://medium.com/web3foundation) | [Polkadot Wiki](https://wiki.polkadot.network/en/) | [Web 3.0 Reddit](https://www.reddit.com/r/web3) | [W3F YouTube](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g) |
+
+### Real-time conversation
+
+We have Riot channels for real-time discussions on Web3 and Polkadot. Join the conversation.
+
+- [Web3 Foundation](https://app.element.io/#/room/#w3f:matrix.org)
+- [Polkadot Watercooler](https://app.element.io/#/room/#polkadot-watercooler:web3.foundation)
+
+## :information_source: License <!-- omit in toc -->
+
+[Apache License 2.0](LICENSE) © Web3 Foundation
