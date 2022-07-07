@@ -11,13 +11,12 @@
 
 ### Application Checklist
 
-- [x] The [application template](https://github.com/veercd/test/blob/main/granttemplate/dapp.md) has been copied, renamed ( `project_name.md`) and updated.
-- [ ] I have read and understood the [FAQs](https://github.com/w3f/Grants-Program/blob/master/docs/faq.md), [application guidelines](https://github.com/w3f/Grants-Program/blob/master/docs/grant_guidelines_per_category.md) and [announcement guidelines](https://github.com/w3f/Grants-Program/blob/master/docs/announcement-guidelines.md).
+- [x] The [DApp template](https://github.com/veercd/test/blob/main/dapp/dapp-template.md)/[infrastructure template](https://github.com/veercd/test/blob/main/infrastructure/infrastructure-template.md) has been copied, renamed ( `project_name.md`) and updated.
 - [ ] AELF address for the payment of the milestones is provided inside the application.
-- [ ] I have read and acknowledge the [terms and conditions](https://github.com/w3f/Grants-Program/blob/master/docs/T&Cs.md).
+- [ ] I have read and acknowledge the [terms and conditions](https://github.com/veercd/test/blob/main/docs/T&Cs.md).
 - [ ] The software delivered for this grant will be released under an open-source license specified in the application.
 - [ ] The initial PR contains only one commit (squash and force-push if needed).
-- [ ] The grant will only be announced once the first milestone [has been accepted](https://github.com/w3f/Grant-Milestone-Delivery#process).
+- [ ] The grant will only be announced once the milestone [has been accepted](https://github.com/veercd/test/blob/main/docs/milestone-deliverables-guidelines.md).
 - [ ] I prefer the discussion of this application to be in a private Element/Matrix channel. My username is: ``@_______``
 
 ### How Did You Hear About our grants program?
