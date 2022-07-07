@@ -21,25 +21,25 @@ Here are the details of the levels
 
 - **Amount:** Up to $500,000
 - **Quantity:** 1
-- **Requirements:** 
+- **Requirements:** 项目可运行、完整的部署在AELF链上、项目已有xx的自带流量并为AELF引流达到xx
 
 ### :rooster: Level S<!-- omit in toc -->
 
 - **Amount:** $50,000
 - **Quantity:** 3-5
-- **Requirements:** 
+- **Requirements:** 项目可运行、完整的部署在AELF链上、项目已xx的有自带流量并为AELF引流达到xx
 
 ### :baby_chick: Level A+<!-- omit in toc -->
 
 - **Amount:** $30,000
 - **Quantity:** 5-10
-- **Requirements:** 
+- **Requirements:** 项目可运行、完整的部署在AELF链上、项目已有自带流量并为AELF引流
 
 ### :hatched_chick: Level A <!-- omit in toc -->
 
 - **Amount:** $20,000
 - **Quantity:** 5-10
-- **Requirements:** 
+- **Requirements:** 项目可运行、完整的部署在AELF链上并吸引来新用户
 
 ### :hatching_chick: Level B <!-- omit in toc -->
 
@@ -51,7 +51,7 @@ Here are the details of the levels
 
 - **Amount:** 
 - **Quantity:** Unlimited
-- **Requirements:** 
+- **Requirements:** 保证项目可正常运行并完整的部署在AELF链上
 
 ## :pencil: Process
 
