@@ -81,4 +81,4 @@ Here are the details of the levels
 ### Changes to a Grant after Approval
 
 - Accepted grant applications can be amended at any time. However, this may need to be reassessed (according to the [levels](#level_slider-levels)). 
-- If your deliveries are significantly delayed and we cannot get a hold of you, we will terminate the grant .
+- If your deliveries are significantly delayed and we cannot get a hold of you, We will not give grants .
